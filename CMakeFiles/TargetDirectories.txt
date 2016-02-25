@@ -1,0 +1,5 @@
+/Users/George/cs184/asst2_geomenagerie/build/src/CMakeFiles/meshedit.dir
+/Users/George/cs184/asst2_geomenagerie/build/CGL/deps/glfw/CMakeFiles/uninstall.dir
+/Users/George/cs184/asst2_geomenagerie/build/CGL/deps/glfw/src/CMakeFiles/glfw.dir
+/Users/George/cs184/asst2_geomenagerie/build/CGL/src/CMakeFiles/CGL.dir
+/Users/George/cs184/asst2_geomenagerie/build/CGL/deps/glew/CMakeFiles/glew.dir
